@@ -3,11 +3,16 @@ title: Aside Tag
 ---
 ## Aside Tag
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/html/elements/aside-tag/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+The `<aside>` tag represents a portion of a document whose content is only indirectly related to the document's main content. Asides are frequently presented as sidebars or call-out boxes.
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
+## Example
+```html
+<p>Salamanders are a group of amphibians with a lizard-like appearance, including short legs and a tail in both larval and adult forms.</p>
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+<aside>
+    <p>The Rough-skinned Newt defends itself with a deadly neurotoxin.</p>
+</aside>
+```
 
 #### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+[MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside)
